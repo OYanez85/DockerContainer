@@ -1,0 +1,7 @@
+matplotlib==3.3.4  # Updated for compatibility and bug fixes
+seaborn==0.11.1    # Updated for compatibility and new features
+pandas==1.2.0      # Updated to a more recent version, still quite stable
+Flask==2.0.1       # Significant update to ensure compatibility with newer Jinja2 and MarkupSafe
+Werkzeug==2.0.1    # Updated to be compatible with Flask 2.0.1
+Jinja2==3.0.1      # Updated to a version that doesn't use soft_unicode
+MarkupSafe==2.0.1  # Ensures compatibility with the updated Flask and Jinja2
